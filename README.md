@@ -13,6 +13,7 @@
 
   <section id="about">
       <h2>About Me</h2>
+<img src="https://source.unsplash.com/random/200x200" width="200">
     <img src="/storage/emulated/0/DCIM/Confident.jpg" width="200">
     <p>I create educational projects and teach others in simple and practical ways. My focus is building clear, effective and practical learning experiences.</p>
   </section>
